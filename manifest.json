@@ -1,7 +1,7 @@
 ﻿{
   "manifest_version": 3,
   "name": "URL to QR",
-  "version": "2.0",
+  "version": "2.1",
   "description": "Converts current URL to QR code and displays it.",
   "permissions": [
     "activeTab"
