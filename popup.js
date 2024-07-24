@@ -6,6 +6,5 @@
       width: 128,
       height: 128
     });
-    document.getElementById('url-text').textContent = url;
   });
 });
