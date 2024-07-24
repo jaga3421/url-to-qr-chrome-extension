@@ -1,0 +1,14 @@
+﻿body {
+  width: 130px;
+  height: 160px;
+  padding: 5px;
+  font-family: Arial, sans-serif;
+}
+
+#qr-container {
+  text-align: center;
+}
+
+#qr-code {
+  margin-bottom: 10px;
+}
